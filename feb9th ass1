@@ -1,0 +1,7 @@
+#big or small
+a = int(input('Enter the number1:-'))
+b = int(input('Enter the number2:-'))
+if a>b:
+    print("a is big")
+else:
+    print("b is big")
